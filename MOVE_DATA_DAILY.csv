@@ -1,0 +1,568 @@
+"part","day","total_locations","total_houses","hours_home","job2","job_new","age_18_up2","male3","socio_comb","rel_locations","rel_houses","rel_hours"
+"1",1,0,0,12,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",2,1,0,12,3,"homemaker","Adult","Female","Homemaker",0.333333333333333,-0.2,NA
+"1",3,1,0,11,3,"homemaker","Adult","Female","Homemaker",0.333333333333333,-0.2,NA
+"1",4,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",5,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",6,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",7,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",8,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.666666666666667,-0.2,NA
+"1",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"2",1,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",2,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",3,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",4,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",5,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",6,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",7,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",8,0,0,17,5,"student","Child","Male","Young student",-1.66666666666667,-1,8
+"2",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"3",1,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",2,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",3,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",4,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",5,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",6,0,0,6,3,"homemaker","Adult","Female","Homemaker",-0.2,-0.133333333333333,-9.33
+"3",7,0,0,4,3,"homemaker","Adult","Female","Homemaker",-0.2,-0.133333333333333,-11.33
+"3",8,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"3",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"4",1,NA,NA,NA,7,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"4",2,NA,NA,NA,7,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"4",3,NA,NA,NA,7,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"4",4,1,0,17,7,"working adult","Adult","Female","Working Adult",0.933333333333333,0,1.14
+"4",5,4,0,12,7,"working adult","Adult","Female","Working Adult",3.93333333333333,0,-3.86
+"4",6,1,0,NA,7,"working adult","Adult","Female","Working Adult",0.933333333333333,0,NA
+"4",7,3,0,NA,7,"working adult","Adult","Female","Working Adult",2.93333333333333,0,NA
+"4",8,0,0,17,7,"working adult","Adult","Female","Working Adult",-0.0666666666666667,0,1.14
+"4",9,0,0,17,7,"working adult","Adult","Female","Working Adult",-0.0666666666666667,0,1.14
+"5",1,1,0,12,7,"working adult","Adult","Male","Working Adult",-0.6,0,6.57
+"5",2,2,0,11,7,"working adult","Adult","Male","Working Adult",0.4,0,5.57
+"5",3,1,0,14,7,"working adult","Adult","Male","Working Adult",-0.6,0,8.57
+"5",4,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"5",5,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"5",6,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"5",7,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"5",8,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"5",9,NA,NA,NA,7,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"6",1,1,0,NA,3,"homemaker","Adult","Female","Homemaker",0.066666666666667,-0.933333333333333,NA
+"6",2,2,0,NA,3,"homemaker","Adult","Female","Homemaker",1.06666666666667,-0.933333333333333,NA
+"6",3,2,0,NA,3,"homemaker","Adult","Female","Homemaker",1.06666666666667,-0.933333333333333,NA
+"6",4,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.933333333333333,-0.933333333333333,NA
+"6",5,2,1,10,3,"homemaker","Adult","Female","Homemaker",1.06666666666667,0.066666666666667,NA
+"6",6,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.933333333333333,-0.933333333333333,NA
+"6",7,2,1,12,3,"homemaker","Adult","Female","Homemaker",1.06666666666667,0.066666666666667,NA
+"6",8,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.933333333333333,-0.933333333333333,NA
+"6",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"7",1,1,0,14,5,"student","Child","Female","Young student",-0.46666666666667,0,4.71
+"7",2,0,0,17,5,"student","Child","Female","Young student",-1.46666666666667,0,7.71
+"7",3,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",4,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",5,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",6,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",7,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",8,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"7",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"8",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"8",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"8",3,1,0,15,5,"student","Child","Male","Young student",-0.73333333333333,0,1.57
+"8",4,1,0,15,5,"student","Child","Male","Young student",-0.73333333333333,0,1.57
+"8",5,0,0,17,5,"student","Child","Male","Young student",-1.73333333333333,0,3.57
+"8",6,1,0,13,5,"student","Child","Male","Young student",-0.73333333333333,0,-0.43
+"8",7,2,0,11,5,"student","Child","Male","Young student",0.26666666666667,0,-2.43
+"8",8,3,0,12,5,"student","Child","Male","Young student",1.26666666666667,0,-1.43
+"8",9,3,0,13,5,"student","Child","Male","Young student",1.26666666666667,0,-0.43
+"9",1,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"9",2,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"9",3,0,0,16,3,"homemaker","Adult","Female","Homemaker",-0.8,0,3.14
+"9",4,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.8,0,4.14
+"9",5,0,0,17,3,"homemaker","Adult","Female","Homemaker",-0.8,0,4.14
+"9",6,0,0,3,3,"homemaker","Adult","Female","Homemaker",-0.8,0,-9.86
+"9",7,1,0,15,3,"homemaker","Adult","Female","Homemaker",0.2,0,2.14
+"9",8,2,0,15,3,"homemaker","Adult","Female","Homemaker",1.2,0,2.14
+"9",9,2,0,NA,3,"homemaker","Adult","Female","Homemaker",1.2,0,NA
+"10",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"10",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"10",3,0,0,17,5,"student","Child","Male","Young student",-0.933333333333333,-0.2,4.57
+"10",4,1,0,14,5,"student","Child","Male","Young student",0.066666666666667,-0.2,1.57
+"10",5,0,0,17,5,"student","Child","Male","Young student",-0.933333333333333,-0.2,4.57
+"10",6,0,0,17,5,"student","Child","Male","Young student",-0.933333333333333,-0.2,4.57
+"10",7,1,0,14,5,"student","Child","Male","Young student",0.066666666666667,-0.2,1.57
+"10",8,0,0,17,5,"student","Child","Male","Young student",-0.933333333333333,-0.2,4.57
+"10",9,0,0,13,5,"student","Child","Male","Young student",-0.933333333333333,-0.2,0.57
+"11",1,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",2,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",3,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",4,0,0,7,5,"student","Adult","Male","College student",-0.266666666666667,-0.0666666666666667,-4.71
+"11",5,1,0,7,5,"student","Adult","Male","College student",0.733333333333333,-0.0666666666666667,-4.71
+"11",6,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",7,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",8,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"11",9,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"12",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"12",2,0,0,2,5,"student","Child","Female","Young student",-0.266666666666667,-0.133333333333333,-14
+"12",3,0,0,17,5,"student","Child","Female","Young student",-0.266666666666667,-0.133333333333333,1
+"12",4,0,0,17,5,"student","Child","Female","Young student",-0.266666666666667,-0.133333333333333,1
+"12",5,0,0,17,5,"student","Child","Female","Young student",-0.266666666666667,-0.133333333333333,1
+"12",6,0,0,16,5,"student","Child","Female","Young student",-0.266666666666667,-0.133333333333333,0
+"12",7,1,1,1,5,"student","Child","Female","Young student",0.733333333333333,0.866666666666667,-15
+"12",8,1,1,8,5,"student","Child","Female","Young student",0.733333333333333,0.866666666666667,-8
+"12",9,1,1,14,5,"student","Child","Female","Young student",0.733333333333333,0.866666666666667,-2
+"13",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",2,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",3,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1.93333333333333,0,7.86
+"13",4,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",5,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",6,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",7,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",8,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"13",9,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"14",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Female","Working Adult",NA,NA,NA
+"14",2,0,0,17,6,"unskilled/selfemployed","Adult","Female","Working Adult",-1.8,0,10
+"14",3,0,0,10,6,"unskilled/selfemployed","Adult","Female","Working Adult",-1.8,0,3
+"14",4,2,0,10,6,"unskilled/selfemployed","Adult","Female","Working Adult",0.2,0,3
+"14",5,1,0,13,6,"unskilled/selfemployed","Adult","Female","Working Adult",-0.8,0,6
+"14",6,1,0,14,6,"unskilled/selfemployed","Adult","Female","Working Adult",-0.8,0,7
+"14",7,3,0,5,6,"unskilled/selfemployed","Adult","Female","Working Adult",1.2,0,-2
+"14",8,1,0,6,6,"unskilled/selfemployed","Adult","Female","Working Adult",-0.8,0,-1
+"14",9,NA,NA,NA,6,"unskilled/selfemployed","Adult","Female","Working Adult",NA,NA,NA
+"15",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"15",2,0,0,17,5,"student","Child","Male","Young student",-0.466666666666667,-0.133333333333333,3.29
+"15",3,0,0,17,5,"student","Child","Male","Young student",-0.466666666666667,-0.133333333333333,3.29
+"15",4,0,0,17,5,"student","Child","Male","Young student",-0.466666666666667,-0.133333333333333,3.29
+"15",5,2,1,NA,5,"student","Child","Male","Young student",1.53333333333333,0.866666666666667,NA
+"15",6,0,0,17,5,"student","Child","Male","Young student",-0.466666666666667,-0.133333333333333,3.29
+"15",7,0,0,17,5,"student","Child","Male","Young student",-0.466666666666667,-0.133333333333333,3.29
+"15",8,1,1,16,5,"student","Child","Male","Young student",0.533333333333333,0.866666666666667,2.29
+"15",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"16",1,1,0,13,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,1.25
+"16",2,1,0,13,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,1.25
+"16",3,1,0,9,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,-2.75
+"16",4,1,0,13,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,1.25
+"16",5,1,0,13,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,1.25
+"16",6,1,0,15,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,3.25
+"16",7,2,0,11,5,"student","Adult","Male","College student",0.2,-0.0666666666666667,-0.75
+"16",8,1,0,13,5,"student","Adult","Male","College student",-0.8,-0.0666666666666667,1.25
+"16",9,NA,NA,NA,5,"student","Adult","Male","College student",NA,NA,NA
+"17",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"17",2,1,0,NA,5,"student","Child","Male","Young student",1,0,NA
+"17",3,1,0,NA,5,"student","Child","Male","Young student",1,0,NA
+"17",4,1,0,NA,5,"student","Child","Male","Young student",1,0,NA
+"17",5,1,0,NA,5,"student","Child","Male","Young student",1,0,NA
+"17",6,1,0,NA,5,"student","Child","Male","Young student",1,0,NA
+"17",7,2,0,NA,5,"student","Child","Male","Young student",2,0,NA
+"17",8,0,0,17,5,"student","Child","Male","Young student",0,0,0
+"17",9,1,0,13,5,"student","Child","Male","Young student",1,0,-4
+"18",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"18",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"18",3,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"18",4,0,0,17,5,"student","Child","Female","Young student",0,0,2
+"18",5,0,0,17,5,"student","Child","Female","Young student",0,0,2
+"18",6,0,0,17,5,"student","Child","Female","Young student",0,0,2
+"18",7,0,0,16,5,"student","Child","Female","Young student",0,0,1
+"18",8,0,0,14,5,"student","Child","Female","Young student",0,0,-1
+"18",9,0,0,17,5,"student","Child","Female","Young student",0,0,2
+"19",1,0,0,17,5,"student","Child","Male","Young student",-0.866666666666667,0,6.43
+"19",2,0,0,10,5,"student","Child","Male","Young student",-0.866666666666667,0,-0.57
+"19",3,1,0,10,5,"student","Child","Male","Young student",0.133333333333333,0,-0.57
+"19",4,0,0,14,5,"student","Child","Male","Young student",-0.866666666666667,0,3.43
+"19",5,0,0,12,5,"student","Child","Male","Young student",-0.866666666666667,0,1.43
+"19",6,0,0,16,5,"student","Child","Male","Young student",-0.866666666666667,0,5.43
+"19",7,2,0,10,5,"student","Child","Male","Young student",1.13333333333333,0,-0.57
+"19",8,3,1,9,5,"student","Child","Male","Young student",2.13333333333333,1,-1.57
+"19",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"20",1,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"20",2,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"20",3,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"20",4,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"20",5,2,1,9,3,"homemaker","Adult","Female","Homemaker",0.26666666666667,0.266666666666667,-1
+"20",6,2,1,9,3,"homemaker","Adult","Female","Homemaker",0.26666666666667,0.266666666666667,-1
+"20",7,2,1,9,3,"homemaker","Adult","Female","Homemaker",0.26666666666667,0.266666666666667,-1
+"20",8,2,0,NA,3,"homemaker","Adult","Female","Homemaker",0.26666666666667,-0.733333333333333,NA
+"20",9,4,1,NA,3,"homemaker","Adult","Female","Homemaker",2.26666666666667,0.266666666666667,NA
+"21",1,1,0,12,5,"student","Child","Male","Young student",0.466666666666667,0,0
+"21",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"21",3,1,0,NA,5,"student","Child","Male","Young student",0.466666666666667,0,NA
+"21",4,1,0,NA,5,"student","Child","Male","Young student",0.466666666666667,0,NA
+"21",5,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"21",6,1,0,NA,5,"student","Child","Male","Young student",0.466666666666667,0,NA
+"21",7,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"21",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"21",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",1,0,0,17,5,"student","Child","Male","Young student",-0.866666666666667,-0.0666666666666667,4.86
+"22",2,1,0,11,5,"student","Child","Male","Young student",0.133333333333333,-0.0666666666666667,-1.14
+"22",3,0,0,9,5,"student","Child","Male","Young student",-0.866666666666667,-0.0666666666666667,-3.14
+"22",4,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",5,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",6,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",7,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"22",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",3,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",4,0,0,17,5,"student","Child","Male","Young student",-1.53333333333333,-0.666666666666667,8.43
+"23",5,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",6,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"23",7,0,0,17,5,"student","Child","Male","Young student",-1.53333333333333,-0.666666666666667,8.43
+"23",8,0,0,17,5,"student","Child","Male","Young student",-1.53333333333333,-0.666666666666667,8.43
+"23",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"24",1,0,0,9,5,"student","Child","Male","Young student",-0.4,0,-3
+"24",2,2,0,12,5,"student","Child","Male","Young student",1.6,0,0
+"24",3,2,0,11,5,"student","Child","Male","Young student",1.6,0,-1
+"24",4,1,0,11,5,"student","Child","Male","Young student",0.6,0,-1
+"24",5,0,0,17,5,"student","Child","Male","Young student",-0.4,0,5
+"24",6,0,0,17,5,"student","Child","Male","Young student",-0.4,0,5
+"24",7,0,0,4,5,"student","Child","Male","Young student",-0.4,0,-8
+"24",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"24",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"25",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"25",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"25",3,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"25",4,0,0,8,5,"student","Child","Male","Young student",-1.93333333333333,-0.933333333333333,-1.43
+"25",5,0,0,17,5,"student","Child","Male","Young student",-1.93333333333333,-0.933333333333333,7.57
+"25",6,3,0,14,5,"student","Child","Male","Young student",1.06666666666667,-0.933333333333333,4.57
+"25",7,1,0,14,5,"student","Child","Male","Young student",-0.93333333333333,-0.933333333333333,4.57
+"25",8,1,0,14,5,"student","Child","Male","Young student",-0.93333333333333,-0.933333333333333,4.57
+"25",9,0,0,17,5,"student","Child","Male","Young student",-1.93333333333333,-0.933333333333333,7.57
+"26",1,0,0,17,5,"student","Child","Male","Young student",-2.4,-1.66666666666667,9.29
+"26",2,0,0,17,5,"student","Child","Male","Young student",-2.4,-1.66666666666667,9.29
+"26",3,0,0,11,5,"student","Child","Male","Young student",-2.4,-1.66666666666667,3.29
+"26",4,3,2,10,5,"student","Child","Male","Young student",0.6,0.33333333333333,2.29
+"26",5,3,3,10,5,"student","Child","Male","Young student",0.6,1.33333333333333,2.29
+"26",6,0,0,15,5,"student","Child","Male","Young student",-2.4,-1.66666666666667,7.29
+"26",7,3,3,14,5,"student","Child","Male","Young student",0.6,1.33333333333333,6.29
+"26",8,1,0,12,5,"student","Child","Male","Young student",-1.4,-1.66666666666667,4.29
+"26",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"27",1,3,1,9,3,"homemaker","Adult","Female","Homemaker",0.6,0,-4
+"27",2,2,0,12,3,"homemaker","Adult","Female","Homemaker",-0.4,-1,-1
+"27",3,1,0,11,3,"homemaker","Adult","Female","Homemaker",-1.4,-1,-2
+"27",4,3,1,10,3,"homemaker","Adult","Female","Homemaker",0.6,0,-3
+"27",5,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"27",6,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"27",7,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"27",8,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"27",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"28",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"28",2,1,0,NA,5,"student","Child","Male","Young student",0.666666666666667,-0.0666666666666667,NA
+"28",3,2,1,NA,5,"student","Child","Male","Young student",1.66666666666667,0.933333333333333,NA
+"28",4,0,0,17,5,"student","Child","Male","Young student",-0.333333333333333,-0.0666666666666667,5
+"28",5,0,0,17,5,"student","Child","Male","Young student",-0.333333333333333,-0.0666666666666667,5
+"28",6,0,0,17,5,"student","Child","Male","Young student",-0.333333333333333,-0.0666666666666667,5
+"28",7,0,0,17,5,"student","Child","Male","Young student",-0.333333333333333,-0.0666666666666667,5
+"28",8,1,1,13,5,"student","Child","Male","Young student",0.666666666666667,0.933333333333333,1
+"28",9,0,0,17,5,"student","Child","Male","Young student",-0.333333333333333,-0.0666666666666667,5
+"29",1,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",2,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",3,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",4,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",5,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",6,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",7,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"29",8,0,0,8,5,"student","Adult","Female","College student",-1,-0.0666666666666667,1.43
+"29",9,0,0,16,5,"student","Adult","Female","College student",-1,-0.0666666666666667,9.43
+"30",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",3,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",4,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",5,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",6,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"30",7,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.933333333333333,6
+"30",8,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.933333333333333,6
+"30",9,2,0,NA,5,"student","Child","Female","Young student",1.06666666666667,-0.933333333333333,NA
+"31",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"31",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"31",3,0,0,17,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,9.14
+"31",4,1,0,NA,5,"student","Child","Male","Young student",-0.33333333333333,-0.666666666666667,NA
+"31",5,0,0,17,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,9.14
+"31",6,0,0,10,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,2.14
+"31",7,0,0,11,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,3.14
+"31",8,0,0,17,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,9.14
+"31",9,0,0,17,5,"student","Child","Male","Young student",-1.33333333333333,-0.666666666666667,9.14
+"32",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"32",2,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",3,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",4,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",5,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",6,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",7,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",8,0,0,17,5,"student","Child","Female","Young student",-0.6,0,6.71
+"32",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"33",1,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"33",2,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"33",3,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"33",4,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"33",5,0,0,15,5,"student","Child","Male","Young student",-0.666666666666667,0,2.57
+"33",6,0,0,14,5,"student","Child","Male","Young student",-0.666666666666667,0,1.57
+"33",7,1,0,15,5,"student","Child","Male","Young student",0.333333333333333,0,2.57
+"33",8,1,0,3,5,"student","Child","Male","Young student",0.333333333333333,0,-9.43
+"33",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"34",1,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",2,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",3,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",4,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",5,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",6,0,0,17,5,"student","Child","Male","Young student",-0.666666666666667,0,4.57
+"34",7,1,0,17,5,"student","Child","Male","Young student",0.333333333333333,0,4.57
+"34",8,1,0,4,5,"student","Child","Male","Young student",0.333333333333333,0,-8.43
+"34",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"35",1,0,0,9,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,3.71
+"35",2,0,0,15,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,9.71
+"35",3,1,0,NA,1,"working adult","Adult","Male","Working Adult",-0.53333333333333,-0.6,NA
+"35",4,0,0,17,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,11.71
+"35",5,0,0,17,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,11.71
+"35",6,0,0,17,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,11.71
+"35",7,0,0,4,1,"working adult","Adult","Male","Working Adult",-1.53333333333333,-0.6,-1.29
+"35",8,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"35",9,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"36",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"36",2,0,0,7,5,"student","Child","Male","Young student",-1.26666666666667,-0.133333333333333,-1.57
+"36",3,2,0,12,5,"student","Child","Male","Young student",0.73333333333333,-0.133333333333333,3.43
+"36",4,0,0,7,5,"student","Child","Male","Young student",-1.26666666666667,-0.133333333333333,-1.57
+"36",5,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"36",6,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"36",7,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"36",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"36",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"37",1,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",2,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",3,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",4,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",5,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",6,0,0,17,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,4.71
+"37",7,0,0,5,5,"student","Child","Female","Young student",-0.933333333333333,-0.0666666666666667,-7.29
+"37",8,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"37",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"38",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"38",2,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"38",3,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"38",4,1,0,15,6,"unskilled/selfemployed","Adult","Male","Working Adult",-2.2,-3.06666666666667,7
+"38",5,1,0,14,6,"unskilled/selfemployed","Adult","Male","Working Adult",-2.2,-3.06666666666667,6
+"38",6,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-3.2,-3.06666666666667,9
+"38",7,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"38",8,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-3.2,-3.06666666666667,9
+"38",9,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-3.2,-3.06666666666667,9
+"39",1,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"39",2,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"39",3,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"39",4,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"39",5,NA,NA,NA,5,"student","Adult","Female","College student",NA,NA,NA
+"39",6,0,0,13,5,"student","Adult","Female","College student",-1.93333333333333,-0.333333333333333,7.14
+"39",7,0,0,11,5,"student","Adult","Female","College student",-1.93333333333333,-0.333333333333333,5.14
+"39",8,1,0,15,5,"student","Adult","Female","College student",-0.93333333333333,-0.333333333333333,9.14
+"39",9,0,0,17,5,"student","Adult","Female","College student",-1.93333333333333,-0.333333333333333,11.14
+"40",1,NA,NA,NA,4,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"40",2,0,0,8,4,"unskilled/selfemployed","Adult","Male","Working Adult",-1.4,-0.266666666666667,0
+"40",3,1,0,9,4,"unskilled/selfemployed","Adult","Male","Working Adult",-0.4,-0.266666666666667,1
+"40",4,1,0,9,4,"unskilled/selfemployed","Adult","Male","Working Adult",-0.4,-0.266666666666667,1
+"40",5,0,0,17,4,"unskilled/selfemployed","Adult","Male","Working Adult",-1.4,-0.266666666666667,9
+"40",6,1,0,9,4,"unskilled/selfemployed","Adult","Male","Working Adult",-0.4,-0.266666666666667,1
+"40",7,2,1,11,4,"unskilled/selfemployed","Adult","Male","Working Adult",0.6,0.733333333333333,3
+"40",8,2,0,8,4,"unskilled/selfemployed","Adult","Male","Working Adult",0.6,-0.266666666666667,0
+"40",9,1,0,9,4,"unskilled/selfemployed","Adult","Male","Working Adult",-0.4,-0.266666666666667,1
+"41",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"41",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"41",3,0,0,17,5,"student","Child","Female","Young student",-2.33333333333333,-1.6,5.86
+"41",4,0,0,17,5,"student","Child","Female","Young student",-2.33333333333333,-1.6,5.86
+"41",5,0,0,17,5,"student","Child","Female","Young student",-2.33333333333333,-1.6,5.86
+"41",6,0,0,17,5,"student","Child","Female","Young student",-2.33333333333333,-1.6,5.86
+"41",7,1,0,15,5,"student","Child","Female","Young student",-1.33333333333333,-1.6,3.86
+"41",8,0,0,13,5,"student","Child","Female","Young student",-2.33333333333333,-1.6,1.86
+"41",9,1,0,11,5,"student","Child","Female","Young student",-1.33333333333333,-1.6,-0.140000000000001
+"42",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"42",2,0,0,9,5,"student","Child","Female","Young student",-2.2,0,0.43
+"42",3,0,0,17,5,"student","Child","Female","Young student",-2.2,0,8.43
+"42",4,0,0,12,5,"student","Child","Female","Young student",-2.2,0,3.43
+"42",5,0,0,15,5,"student","Child","Female","Young student",-2.2,0,6.43
+"42",6,2,0,10,5,"student","Child","Female","Young student",-0.2,0,1.43
+"42",7,2,0,11,5,"student","Child","Female","Young student",-0.2,0,2.43
+"42",8,0,0,16,5,"student","Child","Female","Young student",-2.2,0,7.43
+"42",9,1,0,3,5,"student","Child","Female","Young student",-1.2,0,-5.57
+"43",1,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"43",2,0,0,17,1,"working adult","Adult","Male","Working Adult",-0.4,0,11.57
+"43",3,1,0,13,1,"working adult","Adult","Male","Working Adult",0.6,0,7.57
+"43",4,0,0,17,1,"working adult","Adult","Male","Working Adult",-0.4,0,11.57
+"43",5,0,0,17,1,"working adult","Adult","Male","Working Adult",-0.4,0,11.57
+"43",6,0,0,10,1,"working adult","Adult","Male","Working Adult",-0.4,0,4.57
+"43",7,0,0,10,1,"working adult","Adult","Male","Working Adult",-0.4,0,4.57
+"43",8,0,0,10,1,"working adult","Adult","Male","Working Adult",-0.4,0,4.57
+"43",9,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"44",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"44",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"44",3,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"44",4,0,0,15,5,"student","Child","Male","Young student",-1.26666666666667,0,7.71
+"44",5,0,0,12,5,"student","Child","Male","Young student",-1.26666666666667,0,4.71
+"44",6,1,0,15,5,"student","Child","Male","Young student",-0.26666666666667,0,7.71
+"44",7,0,0,17,5,"student","Child","Male","Young student",-1.26666666666667,0,9.71
+"44",8,0,0,8,5,"student","Child","Male","Young student",-1.26666666666667,0,0.71
+"44",9,1,0,10,5,"student","Child","Male","Young student",-0.26666666666667,0,2.71
+"45",1,NA,NA,NA,2,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"45",2,NA,NA,NA,2,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"45",3,1,0,5,2,"working adult","Adult","Female","Working Adult",-0.53333333333333,0,-5.57
+"45",4,4,0,NA,2,"working adult","Adult","Female","Working Adult",2.46666666666667,0,NA
+"45",5,1,0,NA,2,"working adult","Adult","Female","Working Adult",-0.53333333333333,0,NA
+"45",6,1,0,5,2,"working adult","Adult","Female","Working Adult",-0.53333333333333,0,-5.57
+"45",7,0,0,8,2,"working adult","Adult","Female","Working Adult",-1.53333333333333,0,-2.57
+"45",8,3,0,12,2,"working adult","Adult","Female","Working Adult",1.46666666666667,0,1.43
+"45",9,1,0,8,2,"working adult","Adult","Female","Working Adult",-0.53333333333333,0,-2.57
+"46",1,2,0,11,1,"working adult","Adult","Male","Working Adult",-1.8,0,3.14
+"46",2,0,0,17,1,"working adult","Adult","Male","Working Adult",-3.8,0,9.14
+"46",3,1,0,17,1,"working adult","Adult","Male","Working Adult",-2.8,0,9.14
+"46",4,3,0,NA,1,"working adult","Adult","Male","Working Adult",-0.8,0,NA
+"46",5,0,0,NA,1,"working adult","Adult","Male","Working Adult",-3.8,0,NA
+"46",6,1,0,NA,1,"working adult","Adult","Male","Working Adult",-2.8,0,NA
+"46",7,1,0,NA,1,"working adult","Adult","Male","Working Adult",-2.8,0,NA
+"46",8,1,0,NA,1,"working adult","Adult","Male","Working Adult",-2.8,0,NA
+"46",9,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"47",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"47",2,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"47",3,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"47",4,1,0,12,6,"unskilled/selfemployed","Adult","Male","Working Adult",-0.06666666666667,0,-1
+"47",5,2,0,12,6,"unskilled/selfemployed","Adult","Male","Working Adult",0.93333333333333,0,-1
+"47",6,0,0,12,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1.06666666666667,0,-1
+"47",7,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"47",8,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"47",9,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"48",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"48",2,0,0,17,5,"student","Child","Female","Young student",-2,-0.866666666666667,7.14
+"48",3,3,3,12,5,"student","Child","Female","Young student",1,2.13333333333333,2.14
+"48",4,1,1,8,5,"student","Child","Female","Young student",-1,0.133333333333333,-1.86
+"48",5,2,2,10,5,"student","Child","Female","Young student",0,1.13333333333333,0.140000000000001
+"48",6,2,2,10,5,"student","Child","Female","Young student",0,1.13333333333333,0.140000000000001
+"48",7,2,1,8,5,"student","Child","Female","Young student",0,0.133333333333333,-1.86
+"48",8,0,0,10,5,"student","Child","Female","Young student",-2,-0.866666666666667,0.140000000000001
+"48",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"49",1,2,1,14,5,"student","Child","Male","Young student",-0.93333333333333,0.066666666666667,4.33
+"49",2,1,0,14,5,"student","Child","Male","Young student",-1.93333333333333,-0.933333333333333,4.33
+"49",3,4,0,9,5,"student","Child","Male","Young student",1.06666666666667,-0.933333333333333,-0.67
+"49",4,3,0,8,5,"student","Child","Male","Young student",0.06666666666667,-0.933333333333333,-1.67
+"49",5,0,0,15,5,"student","Child","Male","Young student",-2.93333333333333,-0.933333333333333,5.33
+"49",6,1,0,10,5,"student","Child","Male","Young student",-1.93333333333333,-0.933333333333333,0.33
+"49",7,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"49",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"49",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"50",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"50",2,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"50",3,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"50",4,2,0,15,5,"student","Child","Male","Young student",0,0,5
+"50",5,1,0,8,5,"student","Child","Male","Young student",-1,0,-2
+"50",6,4,0,6,5,"student","Child","Male","Young student",2,0,-4
+"50",7,2,0,8,5,"student","Child","Male","Young student",0,0,-2
+"50",8,1,0,15,5,"student","Child","Male","Young student",-1,0,5
+"50",9,1,0,12,5,"student","Child","Male","Young student",-1,0,2
+"51",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",3,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",4,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",5,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",6,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",7,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"51",8,1,0,NA,5,"student","Child","Female","Young student",-0.46666666666667,-0.533333333333333,NA
+"51",9,1,0,NA,5,"student","Child","Female","Young student",-0.46666666666667,-0.533333333333333,NA
+"52",1,0,0,9,3,"homemaker","Adult","Female","Homemaker",-3.06666666666667,-2.8,5.14
+"52",2,0,0,0,3,"homemaker","Adult","Female","Homemaker",-3.06666666666667,-2.8,-3.86
+"52",3,0,0,0,3,"homemaker","Adult","Female","Homemaker",-3.06666666666667,-2.8,-3.86
+"52",4,0,0,9,3,"homemaker","Adult","Female","Homemaker",-3.06666666666667,-2.8,5.14
+"52",5,0,0,13,3,"homemaker","Adult","Female","Homemaker",-3.06666666666667,-2.8,9.14
+"52",6,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"52",7,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"52",8,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"52",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"53",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"53",2,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"53",3,1,0,14,6,"unskilled/selfemployed","Adult","Male","Working Adult",0,-0.133333333333333,0
+"53",4,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1,-0.133333333333333,3
+"53",5,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1,-0.133333333333333,3
+"53",6,0,0,14,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1,-0.133333333333333,0
+"53",7,1,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",0,-0.133333333333333,3
+"53",8,0,0,15,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1,-0.133333333333333,1
+"53",9,0,0,13,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1,-0.133333333333333,-1
+"54",1,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"54",2,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"54",3,NA,NA,NA,1,"working adult","Adult","Male","Working Adult",NA,NA,NA
+"54",4,3,0,NA,1,"working adult","Adult","Male","Working Adult",1.26666666666667,-0.0666666666666667,NA
+"54",5,0,0,9,1,"working adult","Adult","Male","Working Adult",-1.73333333333333,-0.0666666666666667,2
+"54",6,0,0,8,1,"working adult","Adult","Male","Working Adult",-1.73333333333333,-0.0666666666666667,1
+"54",7,1,0,7,1,"working adult","Adult","Male","Working Adult",-0.73333333333333,-0.0666666666666667,0
+"54",8,1,0,9,1,"working adult","Adult","Male","Working Adult",-0.73333333333333,-0.0666666666666667,2
+"54",9,1,0,7,1,"working adult","Adult","Male","Working Adult",-0.73333333333333,-0.0666666666666667,0
+"55",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",3,0,0,4,5,"student","Child","Female","Young student",-1.26666666666667,-1.06666666666667,-9.43
+"55",4,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",5,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",6,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",7,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"55",8,0,0,9,5,"student","Child","Female","Young student",-1.26666666666667,-1.06666666666667,-4.43
+"55",9,0,0,17,5,"student","Child","Female","Young student",-1.26666666666667,-1.06666666666667,3.57
+"56",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",2,1,0,NA,5,"student","Child","Male","Young student",-0.4,-0.0666666666666667,NA
+"56",3,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",4,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",5,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",6,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",7,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",8,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"56",9,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"57",1,NA,NA,NA,7,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"57",2,NA,NA,NA,7,"working adult","Adult","Female","Working Adult",NA,NA,NA
+"57",3,0,0,14,7,"working adult","Adult","Female","Working Adult",-1.06666666666667,-0.0666666666666667,11
+"57",4,0,0,14,7,"working adult","Adult","Female","Working Adult",-1.06666666666667,-0.0666666666666667,11
+"57",5,0,0,17,7,"working adult","Adult","Female","Working Adult",-1.06666666666667,-0.0666666666666667,14
+"57",6,1,0,5,7,"working adult","Adult","Female","Working Adult",-0.06666666666667,-0.0666666666666667,2
+"57",7,2,0,4,7,"working adult","Adult","Female","Working Adult",0.93333333333333,-0.0666666666666667,1
+"57",8,1,0,4,7,"working adult","Adult","Female","Working Adult",-0.06666666666667,-0.0666666666666667,1
+"57",9,2,0,10,7,"working adult","Adult","Female","Working Adult",0.93333333333333,-0.0666666666666667,7
+"58",1,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"58",2,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"58",3,1,0,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",-0.06666666666667,0,NA
+"58",4,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1.06666666666667,0,11
+"58",5,0,0,17,6,"unskilled/selfemployed","Adult","Male","Working Adult",-1.06666666666667,0,11
+"58",6,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"58",7,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"58",8,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"58",9,NA,NA,NA,6,"unskilled/selfemployed","Adult","Male","Working Adult",NA,NA,NA
+"59",1,2,1,9,3,"homemaker","Adult","Female","Homemaker",0.66666666666667,0,-1
+"59",2,2,1,7,3,"homemaker","Adult","Female","Homemaker",0.66666666666667,0,-3
+"59",3,3,2,14,3,"homemaker","Adult","Female","Homemaker",1.66666666666667,1,4
+"59",4,2,1,12,3,"homemaker","Adult","Female","Homemaker",0.66666666666667,0,2
+"59",5,0,0,16,3,"homemaker","Adult","Female","Homemaker",-1.33333333333333,-1,6
+"59",6,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"59",7,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"59",8,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"59",9,NA,NA,NA,3,"homemaker","Adult","Female","Homemaker",NA,NA,NA
+"60",1,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"60",2,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"60",3,2,1,11,5,"student","Child","Female","Young student",0.26666666666667,0.333333333333333,2
+"60",4,3,2,11,5,"student","Child","Female","Young student",1.26666666666667,1.33333333333333,2
+"60",5,1,1,10,5,"student","Child","Female","Young student",-0.73333333333333,0.333333333333333,1
+"60",6,2,2,8,5,"student","Child","Female","Young student",0.26666666666667,1.33333333333333,-1
+"60",7,2,2,8,5,"student","Child","Female","Young student",0.26666666666667,1.33333333333333,-1
+"60",8,1,1,8,5,"student","Child","Female","Young student",-0.73333333333333,0.333333333333333,-1
+"60",9,2,2,7,5,"student","Child","Female","Young student",0.26666666666667,1.33333333333333,-2
+"61",1,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",2,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",3,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",4,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",5,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",6,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",7,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",8,0,0,17,5,"student","Child","Female","Young student",-0.333333333333333,0,4.29
+"61",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"62",1,1,0,13,5,"student","Child","Female","Young student",-0.73333333333333,-0.666666666666667,2.57
+"62",2,1,0,13,5,"student","Child","Female","Young student",-0.73333333333333,-0.666666666666667,2.57
+"62",3,2,0,14,5,"student","Child","Female","Young student",0.26666666666667,-0.666666666666667,3.57
+"62",4,0,0,17,5,"student","Child","Female","Young student",-1.73333333333333,-0.666666666666667,6.57
+"62",5,1,0,15,5,"student","Child","Female","Young student",-0.73333333333333,-0.666666666666667,4.57
+"62",6,0,0,17,5,"student","Child","Female","Young student",-1.73333333333333,-0.666666666666667,6.57
+"62",7,2,0,9,5,"student","Child","Female","Young student",0.26666666666667,-0.666666666666667,-1.43
+"62",8,3,2,9,5,"student","Child","Female","Young student",1.26666666666667,1.33333333333333,-1.43
+"62",9,NA,NA,NA,5,"student","Child","Female","Young student",NA,NA,NA
+"63",1,NA,NA,NA,5,"student","Child","Male","Young student",NA,NA,NA
+"63",2,0,0,17,5,"student","Child","Male","Young student",-0.6,0,6
+"63",3,0,0,17,5,"student","Child","Male","Young student",-0.6,0,6
+"63",4,1,0,16,5,"student","Child","Male","Young student",0.4,0,5
+"63",5,0,0,17,5,"student","Child","Male","Young student",-0.6,0,6
+"63",6,0,0,10,5,"student","Child","Male","Young student",-0.6,0,-1
+"63",7,0,0,9,5,"student","Child","Male","Young student",-0.6,0,-2
+"63",8,1,0,17,5,"student","Child","Male","Young student",0.4,0,6
+"63",9,2,0,8,5,"student","Child","Male","Young student",1.4,0,-3

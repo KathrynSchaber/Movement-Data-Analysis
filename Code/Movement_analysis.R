@@ -19,7 +19,7 @@ library(multcompView)
 library(cowplot)
 
 ##### IMPORT DATA #####
-setwd("/Users/Kathryn/Desktop/DATASETS/New Excel Sheets3/Output")
+setwd()
 move_data_all <- read.csv("MOVE_DATA_ALL.csv", sep=",", header=TRUE)
 move_data_daily <- read.csv("MOVE_DATA_DAILY.csv", sep=",", header=TRUE)
 MASTERFILE_DIAGNOSIS7 <- read.csv("MASTERFILE_DIAGNOSIS7.csv", sep=",", header=TRUE) 
@@ -264,11 +264,11 @@ mcnemar.test(table(day_30_vec_hours, daily_vec_hours)) # p = 0.074
 ######################################################################################
 #                                 GRAPHS EXPORTED AS PDF
 ######################################################################################
-plot_temp1 <- arrangeGrob(plot1, plot2, ncol = 2, nrow = 1)
+plot_temp1 <- arrangeGrob(plot1, plot2, ncol = 2,  nrow = 1)
 # Add labels to the arranged plots
 plot_temp2 <- as_ggplot(plot_temp1) +   # transform to a ggplot
   draw_plot_label(label = c("A", "B"), size = 20, x = c(0, 0.5), y = c(1, 1)) # Add labels
-setwd("/Users/Kathryn/Desktop/Aim 1/CURRENT MANUSCRIPT/Figures 3/")
+setwd()
 pdf(file = 'Fig1.pdf', width = 11, height = 6)
 plot_temp2
 dev.off()
@@ -560,7 +560,7 @@ plot_temp3 <- arrangeGrob(plot3, plot4, ncol = 2, nrow = 1)
 # Add labels to the arranged plots
 plot_temp4 <- as_ggplot(plot_temp3) +   # transform to a ggplot
   draw_plot_label(label = c("A", "B"), size = 20, x = c(0, 0.5), y = c(1, 1)) # Add labels
-setwd("/Users/Kathryn/Desktop/Aim 1/CURRENT MANUSCRIPT/Figures 3/")
+setwd()
 pdf(file = 'Fig3.pdf', width = 11, height = 6)
 plot_temp4
 dev.off()

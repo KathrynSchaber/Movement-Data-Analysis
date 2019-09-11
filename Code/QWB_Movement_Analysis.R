@@ -19,7 +19,7 @@ library(car)
 library(reshape2)
 
 ######## IMPORT FILES ########
-setwd("/Users/Kathryn/Desktop/DATASETS/New Excel Sheets3/Output")
+setwd()
 temp_qwb <- read.csv("QWB_Movement_Data.csv", sep=",", header=T)
 
 ####### look at 35 participants with all QWB surveys matched up ########
